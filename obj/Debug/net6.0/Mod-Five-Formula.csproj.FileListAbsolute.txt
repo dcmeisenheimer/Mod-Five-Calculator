@@ -1,0 +1,15 @@
+C:\source\December2021Projects\Mod-Five-Formula\bin\Debug\net6.0\Mod-Five-Formula.exe
+C:\source\December2021Projects\Mod-Five-Formula\bin\Debug\net6.0\Mod-Five-Formula.deps.json
+C:\source\December2021Projects\Mod-Five-Formula\bin\Debug\net6.0\Mod-Five-Formula.runtimeconfig.json
+C:\source\December2021Projects\Mod-Five-Formula\bin\Debug\net6.0\Mod-Five-Formula.dll
+C:\source\December2021Projects\Mod-Five-Formula\bin\Debug\net6.0\ref\Mod-Five-Formula.dll
+C:\source\December2021Projects\Mod-Five-Formula\bin\Debug\net6.0\Mod-Five-Formula.pdb
+C:\source\December2021Projects\Mod-Five-Formula\obj\Debug\net6.0\Mod-Five-Formula.csproj.AssemblyReference.cache
+C:\source\December2021Projects\Mod-Five-Formula\obj\Debug\net6.0\Mod-Five-Formula.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\December2021Projects\Mod-Five-Formula\obj\Debug\net6.0\Mod-Five-Formula.AssemblyInfoInputs.cache
+C:\source\December2021Projects\Mod-Five-Formula\obj\Debug\net6.0\Mod-Five-Formula.AssemblyInfo.cs
+C:\source\December2021Projects\Mod-Five-Formula\obj\Debug\net6.0\Mod-Five-Formula.csproj.CoreCompileInputs.cache
+C:\source\December2021Projects\Mod-Five-Formula\obj\Debug\net6.0\Mod-Five-Formula.dll
+C:\source\December2021Projects\Mod-Five-Formula\obj\Debug\net6.0\ref\Mod-Five-Formula.dll
+C:\source\December2021Projects\Mod-Five-Formula\obj\Debug\net6.0\Mod-Five-Formula.pdb
+C:\source\December2021Projects\Mod-Five-Formula\obj\Debug\net6.0\Mod-Five-Formula.genruntimeconfig.cache
